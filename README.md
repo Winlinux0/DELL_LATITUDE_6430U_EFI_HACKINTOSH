@@ -1,11 +1,8 @@
 # DELL_LATITUDE_6430U_EFI_HACKINTOSH
 OpenCore EFI for DELL LATITUDE 6430U running macOS Big Sur
 
-bootloader: OpenCore
+Bootloader: OpenCore
 SMBIOS: MacBookPro11,1
-CPU: Intel Core i7-3667U (Ivy Bridge)
-GPU: Intel HD 4000
-RAM: 8GB DDR3
 
 fully working (Recommended):
 - Big Sur
