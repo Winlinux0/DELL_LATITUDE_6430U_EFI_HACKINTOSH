@@ -10,7 +10,7 @@ OpenCore EFI for DELL LATITUDE 6430U running macOS Big Sur
 - Ethernet (cabled): not supported
 
 fully working (Recommended):
-- Big Sur
+- Big Sur - but SMBIOS must be set to a supported MacBook; no_compat_check already disabled
 - Catalina
 - Mojave
 - High Sierra
@@ -20,6 +20,7 @@ Older versions (install & boot, limited support):
 - El Capitan - works, but no Wi-Fi
 - Yosemite - works, but no Wi-Fi
 - Mavericks - works, but no Wi-Fi
+- Mountain Lion - works, but no Wi-Fi
 
 Partially Working
 - Monterey - system installs and runs, but graphics acceleration does not work
