@@ -2,7 +2,7 @@
 OpenCore EFI for DELL LATITUDE 6430U running macOS Big Sur
 
 - Bootloader: OpenCore
-- SMBIOS: MacBookAir5,2
+- SMBIOS: MacBookPro11,1
 - CPU Intel Core i7-3667U (Ivy Bridge)
 - GPU: Intel HD 4000
 - Network: Intel Centrino Ultimate N6300AGN - works via Heliport.dmg
@@ -10,7 +10,7 @@ OpenCore EFI for DELL LATITUDE 6430U running macOS Big Sur
 - Ethernet (cabled): not supported
 
 fully working (Recommended):
-- Big Sur - but SMBIOS must be set to a supported MacBook; no_compat_check already disabled
+- Big Sur
 - Catalina
 - Mojave
 - High Sierra
